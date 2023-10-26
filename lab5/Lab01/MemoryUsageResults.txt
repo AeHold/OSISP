@@ -1,0 +1,6 @@
+Total Physical Memory: 7.89 GB
+ Available Physical Memory: 1.85 GB
+ Total Virtual Memory: 131072.00 GB
+ Available Virtual Memory: 131067.86 GB
+
+
